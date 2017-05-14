@@ -1,0 +1,16 @@
+D:\360Downloads\MvvmExample\Example6\bin\Debug\Example6.exe
+D:\360Downloads\MvvmExample\Example6\bin\Debug\Example6.pdb
+D:\360Downloads\MvvmExample\Example6\bin\Debug\MicroMvvm.dll
+D:\360Downloads\MvvmExample\Example6\bin\Debug\MicroMvvm.pdb
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.csprojResolveAssemblyReference.cache
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\MainWindow.g.cs
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\App.g.cs
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6_MarkupCompile.cache
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6_MarkupCompile.lref
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\MainWindow.baml
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.g.resources
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.Properties.Resources.resources
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.csproj.GenerateResource.Cache
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.exe
+D:\360Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.pdb

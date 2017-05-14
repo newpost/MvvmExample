@@ -1,0 +1,5 @@
+D:\360Downloads\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.dll
+D:\360Downloads\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.pdb
+D:\360Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.csprojResolveAssemblyReference.cache
+D:\360Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.dll
+D:\360Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.pdb
